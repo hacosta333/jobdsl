@@ -22,6 +22,3 @@ pipelineJob(project_name){
       }
    }
 }
-
-
-}
